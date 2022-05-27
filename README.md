@@ -2,7 +2,7 @@
 A simple object-oriented node map to test and generally understand path-finding algorithms better.
 
 ## How to use ##
-I'll go through and exaplain the Map Object & Its functions, The Node Object & Its functions, & why I chose to write and post such terrible code.
+I'll go through and explain the Map Object & Its functions, The Node Object & Its functions, & why I chose to write and post such terrible code.
 #Map object #
 The map object can hold a maximum of 20 nodes.  This number is arbitrarily set and I could've avoided this problem had I just used Lists.  I might switch over later, who knows? Surely not me.
 
