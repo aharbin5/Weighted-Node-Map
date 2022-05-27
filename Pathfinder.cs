@@ -209,7 +209,6 @@ namespace Pathfinder
     {
         // Two arrays.  One of connections & one of path weights
         // The connection has the same index at the path weight.
-        // Fuck you, I'll do it how I want to.
 
         public string Name;
 
